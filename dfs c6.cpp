@@ -32,6 +32,9 @@ while(k<n)
 for(j=n;j>=1;j--)
 if(cost[v][j]!=0 && visited[j]!=1 && visit[j]!=1)
 {
+ cout<<j<<n;
+}
+{
 visit[j]=1;
 stk[top]=j;
 top++;
