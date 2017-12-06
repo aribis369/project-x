@@ -6,6 +6,7 @@ int main()
 {
   cout << "Hello World";        // prints Hello World
   cout << "Hello Me";
+  cout << "Hello All";
 
   return 0;
 }
